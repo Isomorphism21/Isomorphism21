@@ -34,7 +34,7 @@
  <div class="container_container" align="center">
     <div class="container">
       <h3 align="center"> Check my streak stats: </h3>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zachlesk&theme=dark&hide_border=true"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Isomorphism21&theme=dark&hide_border=true"/>
     </div>
 </div>
 
